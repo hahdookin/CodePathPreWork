@@ -6,7 +6,7 @@ Submitted by: Christopher Pane
 
 Time spent: 3 hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: https://glitch.com/~iced-dust-myth
 
 ## Required Functionality
 
